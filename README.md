@@ -15,6 +15,6 @@ The PresaleReadyExample file provides an example token that takes a 2% fee on tr
 - announce that trading has been unlocked
 
 If you expand on the PresaleReady contract, be sure to check !whitelisted[from] in your transfer function before taking fees. Feel free to check the PresaleReadyExample token.
-**You do not have to use these contracts to create a presale.** These files serve as an example token that meets the requirements for creating a presale. 
+**You do not have to use these contracts to create a presale.** These files serve to provide an example token that meets the requirements for creating a presale. 
 Tokens that do not take fees or do not need to tokens to be distributed before you finalize will not need the functionality provided by these contracts.
 However, you are free to use these contracts for any project if you would like to.
